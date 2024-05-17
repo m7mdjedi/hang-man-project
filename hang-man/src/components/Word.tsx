@@ -1,4 +1,4 @@
-import React from 'react'
+
 import WordLetter from './WordLetter';
 import { RootState } from '../store/store';
 import { useSelector } from 'react-redux';
